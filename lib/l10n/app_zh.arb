@@ -1,0 +1,12 @@
+{
+  "@@locale": "zh",
+  "appTitle": "Ramble",
+  "tabChat": "对话",
+  "tabTree": "树状视图",
+  "newSession": "新建会话",
+  "sessionSettings": "会话设置",
+  "sessionList": "会话列表",
+  "appSettings": "软件设置",
+  "chatPlaceholder": "选择一个会话开始对话",
+  "treePlaceholder": "树状视图将在会话中展示"
+}

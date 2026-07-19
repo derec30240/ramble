@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "Ramble",
+  "tabChat": "Chat",
+  "tabTree": "Tree View",
+  "newSession": "New Session",
+  "sessionSettings": "Session Settings",
+  "sessionList": "Session List",
+  "appSettings": "App Settings",
+  "chatPlaceholder": "Select a session to start chatting",
+  "treePlaceholder": "Tree view will be shown in a session"
+}
